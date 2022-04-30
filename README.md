@@ -6,7 +6,7 @@ Web Developer
 
 I'm a Computer Science Engineer && a Software Developer!
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [sanathsasi01.github.io/](http://sanathsasi01.github.io/)
 * ✉️  You can contact me at [sanathsasi98@gmail.com](mailto:sanathsasi98@gmail.com)
 * 🧠  I'm learning Redux
